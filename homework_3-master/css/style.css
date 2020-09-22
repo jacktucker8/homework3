@@ -51,13 +51,24 @@ table{
 .colhead{
   background-color: #7e0830;
   color: #FFFFFF;
+  column-width: 125px;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .rowhead{
+  
 
 }
 
 td{
+  text-align: center;
+  border-top: 2px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   
 }
 
