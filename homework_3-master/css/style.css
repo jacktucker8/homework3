@@ -79,7 +79,7 @@ tr{
 
 }
 
-thead tr:first-child th:first-child{}
+tr:first-child(even);{background: #D1D1D1} th:first-child{}
 
 footer{
   width:100%;
