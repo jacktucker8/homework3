@@ -24,6 +24,8 @@ main{
 h1{
   color: #c12258;
   font-size: 2em;
+  text-align: center;
+  line-height: 2;
 }
 
 caption{
@@ -31,11 +33,13 @@ caption{
 }
 
 p{
-
+  padding-top: 15px;
 }
 
 a{
-
+  color: #C12258;
+  padding-top: 20px;
+  text-decoration: underline wavy blue;
 }
 
 table{
