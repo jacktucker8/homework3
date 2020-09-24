@@ -84,6 +84,9 @@ r{
 *{
 
 }
+
+tr:nth-child(even) {background-color: #D1D1D1;} 
+
 th:first-of-type {
   border-top-left-radius: 10px;
 }
