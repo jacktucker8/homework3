@@ -90,8 +90,8 @@ tr:nth-child(even) {
 }
 
 tr: hover {
-  color: #7e0830;
-  opacity: .25;
+  background-color: #7e0830;
+  transition: background-color .5s;
 }
 
 th:first-of-type {
