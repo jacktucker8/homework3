@@ -77,15 +77,19 @@ td{
   
 }
 
-tr{
+r{
 
 }
 
 *{
 
 }
-
-tr:first-child(even);{background: #D1D1D1} th:first-child{}
+th:first-of-type {
+  border-top-left-radius: 10px;
+}
+tr:last-of-type td:first-of-type {
+  border-bottom-left-radius: 10px;
+}
 
 footer{
   width:100%;
