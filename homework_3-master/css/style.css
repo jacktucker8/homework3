@@ -90,7 +90,7 @@ tr:nth-child(even) {
 }
 
 tr: hover {
-  background color: #7e0830;
+  background-color: #7e0830;
   opacity: .25;
 }
 
