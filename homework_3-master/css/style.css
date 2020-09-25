@@ -86,13 +86,11 @@ r{
 
 }
 
-tr:nth-child(even) {
-  background-color: #D1D1D1;
-}
+tr:nth-child(even) {background-color: #D1D1D1;}
 
 tr: hover {
   background-color: #7e0830;
-  transition: background-color .5s;
+  opacity: .25;
 }
 
 th:first-of-type {
