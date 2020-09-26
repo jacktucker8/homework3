@@ -120,7 +120,7 @@ table tr:first-child th:first-child {
 table tr:first-child th:last-child {
   border-top-right-radius: 10px;
 }
-table tr:last-child td:last-child {
+table tr:last-child td:first-child {
   border-bottom-left-radius: 10px;
 }
 table tr:last-child td:last-child {
