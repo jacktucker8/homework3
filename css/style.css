@@ -65,6 +65,8 @@ th.colhead{
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  vertical-align: middle;
+  horizontal-align: middle;
   text-transform: uppercase;
 }
 
