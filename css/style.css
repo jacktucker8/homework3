@@ -111,7 +111,7 @@ table th:first-child th:first-child {
 table th:first-child th:last-child {
   border-top-right-radius: 10px;
 }
-table tr:last-child td:last-child {
+table tr:first-child td:last-child {
   border-bottom-left-radius: 10px;
 }
 table tr:last-child td:last-child {
