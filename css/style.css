@@ -102,7 +102,7 @@ th:first-child {
   text-align: left;
 }
 th:last-child {
-  border-top-right-radius: 10px;
+  border-radius: 10px, 0px, 0px, 10px;
 }
 
 td {
