@@ -98,11 +98,7 @@ tr:hover{
 
 
 th:first-child {
-  border-radius: 10px, 0px, 0px, 10px;
   text-align: left;
-}
-th:last-child {
-  border-radius: 10px, 0px, 0px, 10px;
 }
 
 td {
