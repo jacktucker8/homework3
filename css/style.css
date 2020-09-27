@@ -124,7 +124,7 @@ td:first-child{
 }
 
 
-thead td:first-child {
+thead tr:first-child {
   border-top-left-radius: 10px;
 }
 
